@@ -135,3 +135,4 @@ Dropped refs/stash@{0} (f0dfc4d5dc332d1cee34a634182e168c4efc3359)
 ```
 
 This is a nice shortcut to recover stashed work easily and work on it in a new branch.
+all the best.
