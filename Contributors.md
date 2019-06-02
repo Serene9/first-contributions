@@ -18,6 +18,7 @@
 - [Soo Kyung Ahn] (https://github.com/sahnsookyung)
 - [rjmax13] (https://github.com/rjmax13)
 - [Noah Nichols] (https://github.com/noahjacknichols)
+- [md ayaz haque](https://github.com/Serene9)
 - [Quentin Courtheoux] (https://github.com/ctxquentin)
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
